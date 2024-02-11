@@ -1,4 +1,4 @@
-# vuetifyiot
+# vue-app
 
 ## Project setup
 ```
